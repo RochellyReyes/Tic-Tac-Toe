@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Tic Tac Toe Game
+Play an interactive tic tac toe game! The app uses ReactJS hooks for an interactive user experience. 
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
